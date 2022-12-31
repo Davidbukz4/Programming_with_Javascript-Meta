@@ -1,1 +1,1 @@
-# Beginner level javascript projects
+# Beginner level javascript projects.
